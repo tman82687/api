@@ -32,7 +32,7 @@ import {
   scrapeWatchAnime,
   scrapeThread,
   DownloadReferer,
-} from './anime_parser.js';
+} from './lib/anime_parser.js';
 
 const port = process.env.PORT || 3000;
 
